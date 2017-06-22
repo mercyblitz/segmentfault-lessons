@@ -59,9 +59,7 @@ Segment Fault 在线讲堂 代码工程
 
 ### [第五节 嵌入式Web容器](https://segmentfault.com/l/1500000009844304)
 
-专题讨论嵌入式 Web容器，时长预计一个半小时。 SF 小马哥交流QQ群：114715886
-
-主要内容：
+专题讨论嵌入式 Web容器，时长预计一个半小时，主要内容：
 
 * 传统 Servlet 容器：介绍 Apache Tomcat、Eclipse Jetty。以 Tomcat 为例，常见容器配置和维护方式。
 

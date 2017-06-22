@@ -12,7 +12,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第一节 初体验](https://segmentfault.com/l/1500000009515571)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-1))
+### [第一节 初体验](https://segmentfault.com/l/1500000009515571) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-1))
 
 时长一个半小时，内容大致分为以下几个部分：
 
@@ -24,7 +24,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第二节 Web篇（上）](https://segmentfault.com/l/1500000009659111)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-2))
+### [第二节 Web篇（上）](https://segmentfault.com/l/1500000009659111) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-2))
 
 时长一个半小时，主要内容：
 
@@ -36,7 +36,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第三节 Web篇（中）](https://segmentfault.com/l/1500000009767025)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-3))
+### [第三节 Web篇（中）](https://segmentfault.com/l/1500000009767025) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-3))
 
 专题讨论 REST相关议题，时长两个小时，主要内容：
 

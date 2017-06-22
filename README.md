@@ -1,8 +1,6 @@
 # segmentfault-lession
 Segment Fault 在线讲堂 代码工程
 
-Java 微服务实践 - Spring Boot 系列课程：
-
 
 # 课堂详情
 

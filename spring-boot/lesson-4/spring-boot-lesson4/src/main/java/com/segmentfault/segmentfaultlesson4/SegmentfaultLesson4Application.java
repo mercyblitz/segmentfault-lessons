@@ -39,17 +39,6 @@ public class SegmentfaultLesson4Application extends SpringBootServletInitializer
     }
 
     @Bean
-    public static ServletRegistrationBean jspServlet(){
-        ServletRegistrationBean servletRegistrationBean = new ServletRegistrationBean();
-
-        servletRegistrationBean.setName("jspServlet");
-        servletRegistrationBean.setServlet(new JspServlet());
-        servletRegistrationBean.addUrlMappings("*.jsp");
-
-        return servletRegistrationBean;
-    }
-
-    @Bean
     public static FilterRegistrationBean filterRegistrationBean() {
         FilterRegistrationBean filterRegistrationBean = new FilterRegistrationBean();
 

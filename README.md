@@ -11,15 +11,15 @@ Segment Fault 在线讲堂 代码工程
 
 # 讲师信息
 
-马昕曦，一个人名，阿里巴巴技术专家，国内微服务技术客串讲师，目前主要负责微服务技术推广、架构设计、基础设施、迁移等。重点关注云计算、微服务以及软件架构等领域。从事十余年Java EE 开发，期间通过SUN Java（SCJP、SCWCD、SCBCD）以及Oracle OCA等的认证。
+小马哥，阿里巴巴技术专家，国内微服务技术客串讲师，目前主要负责微服务技术推广、架构设计、基础设施、迁移等。重点关注云计算、微服务以及软件架构等领域。从事十余年Java EE 开发，期间通过SUN Java（SCJP、SCWCD、SCBCD）以及Oracle OCA等的认证。
 
 
 
-## `Java 微服务实践 - Spring Boot 系列`
+## Java 微服务实践 - Spring Boot 系列
 
 
 
-### [第一节 初体验](https://segmentfault.com/l/1500000009515571) ([课件](/spring-boot/lesson-1))
+### [第一节 初体验](https://segmentfault.com/l/1500000009515571) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-1))
 
 * 主要内容
 
@@ -29,7 +29,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第二节 Web篇（上）](https://segmentfault.com/l/1500000009659111) ([课件](/spring-boot/lesson-2))
+### [第二节 Web篇（上）](https://segmentfault.com/l/1500000009659111) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-2))
 
 * 主要内容：
 
@@ -49,7 +49,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第四节 Web篇（下）](https://segmentfault.com/l/1500000009830944)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-4))
+### [第四节 Web篇（下）](https://segmentfault.com/l/1500000009830944)
 
 * 主要内容
 
@@ -79,7 +79,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第七节 MyBatis（审核中）](#)
+### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220)
 
 * 主要内容
 
@@ -90,7 +90,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第八节 Java Persistence API（审核中）](#)
+### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527)
 
 * 主要内容
 
@@ -100,7 +100,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第九节 NoSQL（审核中）](#)
+### [第九节 NoSQL](https://segmentfault.com/l/1500000009957330)
 
 * 主要内容：
 
@@ -110,7 +110,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十节 缓存（审核中）](#)
+### [第十节 缓存](https://segmentfault.com/l/1500000009970812)
 
 * 主要内容
 
@@ -121,7 +121,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十一节 消息（审核中）](#)
+### [第十一节 消息](https://segmentfault.com/l/1500000009971600)
 
 * 主要内容
 
@@ -133,7 +133,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十二节 验证（审核中）](#)
+### [第十二节 验证](https://segmentfault.com/l/1500000009971716)
 
 * 主要内容
 
@@ -144,7 +144,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十三节 WebSockets（审核中）](#)
+### [第十三节 WebSockets（审核中）](https://segmentfault.com/l/1500000009971716)
 
 * 主要内容
 
@@ -231,7 +231,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-## `Java 微服务实践 - Spring Cloud 系列`
+## Java 微服务实践 - Spring Cloud 系列
 
 
 ### 持续更新中，请期待

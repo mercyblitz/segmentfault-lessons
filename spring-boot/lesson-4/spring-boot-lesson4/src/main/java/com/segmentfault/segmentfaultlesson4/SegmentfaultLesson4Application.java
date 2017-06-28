@@ -3,7 +3,6 @@ package com.segmentfault.segmentfaultlesson4;
 import com.segmentfault.segmentfaultlesson4.servlet.MyServletRequestListener;
 import com.segmentfault.segmentfaultlesson4.spring.boot.MyFilter2;
 import com.segmentfault.segmentfaultlesson4.spring.boot.MyServlet2;
-import org.apache.jasper.servlet.JspServlet;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

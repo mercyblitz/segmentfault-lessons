@@ -55,7 +55,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第六节 数据库 JDBC](https://segmentfault.com/l/1500000009904190)
+### [第六节 数据库 JDBC](https://segmentfault.com/l/1500000009904190)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-6))
 
 * 主要内容
 

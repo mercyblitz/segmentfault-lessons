@@ -36,7 +36,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第四节 Web篇（下）](https://segmentfault.com/l/1500000009830944)
+### [第四节 Web篇（下）](https://segmentfault.com/l/1500000009830944) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-4))
 
 * 主要内容
 
@@ -46,7 +46,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第五节 嵌入式Web容器](https://segmentfault.com/l/1500000009844304)
+### [第五节 嵌入式Web容器](https://segmentfault.com/l/1500000009844304) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-5))
 
 * 主要内容
 

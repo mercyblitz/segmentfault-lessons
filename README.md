@@ -66,7 +66,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220)
+### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-7))
 
 * 主要内容
 

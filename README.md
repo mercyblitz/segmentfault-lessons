@@ -77,7 +77,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527)
+### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-8))
 
 * 主要内容
 

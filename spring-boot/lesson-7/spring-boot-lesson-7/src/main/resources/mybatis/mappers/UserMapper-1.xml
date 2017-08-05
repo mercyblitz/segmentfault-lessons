@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.segmentfault.springbootlesson7.mapper.UserMapper">
+
+    <resultMap id="UserResultMap" type="com.segmentfault.springbootlesson7.entity.User">
+
+        <id property="id" column="id"/>
+        <result property="name" column="name" javaType="java.lang.String"/>
+        <result property="age" column="age"/>
+        <result property="description" column="desc"
+                typeHandler="com.segmentfault.springbootlesson7.handler.DescriptionTypeHandler"/>
+        <result property="height" column="height"/>
+
+    </resultMap>
+
+    <select id="selectOneUser" parameterType="int" resultMap="UserResultMap" resultType="">
+        SELECT id,name,age,`desc`,height FROM user WHERE id = #{id}
+    </select>
+</mapper>

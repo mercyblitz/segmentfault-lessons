@@ -121,7 +121,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十二节 验证](https://segmentfault.com/l/1500000009971716)
+### [第十二节 验证](https://segmentfault.com/l/1500000009971716) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-12)) [[问答](https://segmentfault.com/l/1500000009971716/d/1560000010630935)]
 
 * 主要内容
 

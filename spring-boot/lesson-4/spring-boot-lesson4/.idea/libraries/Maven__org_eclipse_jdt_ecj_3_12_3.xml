@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jdt:ecj:3.12.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2_repos/alibaba/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2_repos/alibaba/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2_repos/alibaba/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

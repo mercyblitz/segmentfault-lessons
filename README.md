@@ -125,18 +125,18 @@ Segment Fault 在线讲堂 代码工程
 
 * 主要内容
 
-	* Bean Validation（JSR-303）：介绍 Java Bean 验证、核心 API、实现框架 Hibernate Validator
+    * Bean Validation（JSR-303）：介绍 Java Bean 验证、核心 API、实现框架 Hibernate Validator
     * Apache commons-validator ：介绍最传统 Apache 通用验证器框架，如：长度、邮件等方式
     * Spring Validator：介绍 Spring 内置验证器 API、以及自定义实现
     * Spring Boot 整合：解读 spring-boot-starter-validation
 
 
 
-### [第十三节 WebSocket](https://segmentfault.com/l/1500000009971764)
+### [第十三节 WebSocket](https://segmentfault.com/l/1500000009971764) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-13)) [[问答](https://segmentfault.com/l/1500000009971764/d/1560000010698298)]
 
 * 主要内容
 
-	* WebSocket（JSR-356）：简介 WebSocket 协议、解释专业术语（如端点、端和会话等）
+    * WebSocket（JSR-356）：简介 WebSocket 协议、解释专业术语（如端点、端和会话等）
     * 生命周期：理解 WebSocket 生命周期（如：开启会话、关闭会话、接受消息等）
     * 核心接口：介绍 Java WebSocket 中的核心API（如：@ServerEndpoint、@ClientEndpoint、@OnOpen等）
     * 实现容器：当前实现 WebSocket 的主流容器，以及 Tomcat Comet 技术
@@ -148,7 +148,7 @@ Segment Fault 在线讲堂 代码工程
 
 * 主要内容
 
-	* Web Services：介绍 WSDL 协议、SOAP协议 以及 XML-PRC
+    * Web Services：介绍 WSDL 协议、SOAP协议 以及 XML-PRC
     * JAX-RS（JSR-224）：简介 The Java API for XML-Base Web Servces 2.0 规范
     * Web Serices Metadata（JSR-181）：介绍 Web Services Metadata 编程模型、注解、Java 映射等
     * Spring Boot 整合：介绍和整合 spring-boot-starter-ws
@@ -159,7 +159,7 @@ Segment Fault 在线讲堂 代码工程
 
 * 主要内容
 
-	* 客户端安全：介绍 CSRF、CSP、HTTP Struct Transport Security、X-Frames-Options、X-XSS-Protection 等
+    * 客户端安全：介绍 CSRF、CSP、HTTP Struct Transport Security、X-Frames-Options、X-XSS-Protection 等
     * 服务端安全：Authentication 和 Authorization
     * Spring Boot 整合：介绍和整合 spring-boot-starter-security
     
@@ -169,7 +169,7 @@ Segment Fault 在线讲堂 代码工程
 
 * 主要内容
 
-	* 日志框架：介绍主流日志框架，以及发展历程 Apache Log4j -> Java Logging -> Logback -> Apache Log4j2
+    * 日志框架：介绍主流日志框架，以及发展历程 Apache Log4j -> Java Logging -> Logback -> Apache Log4j2
     * 统一日志API：介绍统一日志API Apache commons-logging 以及 slf4-api
     * 日志设计模式：说明主流日志框架的设计模式
     * Spring Boot 整合：集合 spring-boot-starter-logging ，分析Spring Boot 日志系统设计
@@ -180,7 +180,7 @@ Segment Fault 在线讲堂 代码工程
 
 * 主要内容
 
-	* JMX（JSR-3）：介绍 Java 标准管理规范，着重说明 MBean、MXBean、属性（Attribute）、操作（Operation）等相关概念
+    * JMX（JSR-3）：介绍 Java 标准管理规范，着重说明 MBean、MXBean、属性（Attribute）、操作（Operation）等相关概念
     * 核心API：实战的方式深入探讨服务端和客户端核心API的使用，加深理解
     * 客户端：讲解主流客户端（JConsole、JVisualVM）以及 HTTP 桥接框架 Jolokia
     * Spring Boot 整合：介绍 Spring 对 JMX 的扩展支持，随后再深入探讨自动装配模块
@@ -191,7 +191,7 @@ Segment Fault 在线讲堂 代码工程
 
 * 主要内容
 
-	* 外部配置：介绍外部配置文件（Properties以及YAML方式)、命令行，以及占位符的使用
+    * 外部配置：介绍外部配置文件（Properties以及YAML方式)、命令行，以及占位符的使用
     * 配置引用：讲解如何通过编码的方式获取配置项值，以及将该值赋值致Bean的属性上
     * Prfoles：说明 Profiles 使用场景，以及在实际生产环节中如何合理的使用
     * Environment：通过实战的方式解决和说明Spring Environment接口，以及它与外部配置、Profiles之间的关系

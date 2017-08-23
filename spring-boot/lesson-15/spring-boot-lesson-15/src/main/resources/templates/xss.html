@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>XSS 页面</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+
+    ${jsCode} : <div th:text="${jsCode}"></div>
+
+    ${htmlCode} : <div th:utext="${htmlCode}"></div>
+</body>
+</html>

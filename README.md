@@ -155,7 +155,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十五节 安全](https://segmentfault.com/l/1500000009978481)
+### [第十五节 安全](https://segmentfault.com/l/1500000009978481) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-15)) [[问答]](https://segmentfault.com/l/1500000009978481/d/1560000010817910)
 
 * 主要内容
 

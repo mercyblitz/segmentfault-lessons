@@ -165,7 +165,7 @@ Segment Fault 在线讲堂 代码工程
     
     
 
-### [第十六节 日志](https://segmentfault.com/l/1500000009978585)
+### [第十六节 日志](https://segmentfault.com/l/1500000009978585) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-16)) [[问答](https://segmentfault.com/l/1500000009978585/d/1560000010867242)]
 
 * 主要内容
 

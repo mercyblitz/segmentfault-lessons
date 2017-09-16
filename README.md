@@ -1,8 +1,13 @@
-# segmentfault-lession
-Segment Fault 在线讲堂 代码工程
+Segment Fault 在线讲堂 代码工程 
+=====================================
 
 
-## Java 微服务实践 - Spring Boot 系列
+
+# [Java 微服务实战系列课堂](https://segmentfault.com/n/1330000009887617)
+
+
+
+## Java 微服务实践 - Spring Boot 系列 （[一键报名，更优惠！](https://segmentfault.com/ls/1650000011063780)）
 
 
 
@@ -198,7 +203,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十九节 测试](https://segmentfault.com/l/1500000009978826)
+### [第十九节 测试](https://segmentfault.com/l/1500000009978826) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-19)) [[问答](https://segmentfault.com/l/1500000009978826/d/1560000011154349)]
 
 * 主要内容
 	

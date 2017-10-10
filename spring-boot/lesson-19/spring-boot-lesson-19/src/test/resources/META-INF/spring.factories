@@ -1,0 +1,3 @@
+
+org.springframework.test.context.TestExecutionListener = \
+com.segmentfault.springbootlesson19.listener.PersonIntegrationTestListener

@@ -1,0 +1,5 @@
+
+
+## 自定义 Spring Boot ApplicationListener
+org.springframework.context.ApplicationListener=\
+com.segmentfault.springbootlesson18.context.CustomizedSpringBootApplicationListener

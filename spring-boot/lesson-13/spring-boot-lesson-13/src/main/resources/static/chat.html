@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>聊天室</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" ></script>
+
+</head>
+
+<body>
+聊天消息内容：
+<br/>
+<textarea id="text_chat_content" readonly="readonly" cols="100" rows="9">
+
+</textarea>
+
+<br/>
+
+用户：<input id="in_user_name" value=""/>
+<button id="btn_join">加入聊天室</button>
+<button id="btn_exit">离开聊天室</button>
+
+<br/>
+
+输入框：<input id="in_msg" value=""/><button id="btn_send">发送消息</button>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+
+        var urlPrefix ='ws://127.0.0.1:8080/chat-room/';
+
+        var ws = null;
+
+        $('#btn_join').click(function(){
+
+            var username = $('#in_user_name').val();
+
+            var url = urlPrefix+username;
+
+            ws = new WebSocket(url);
+
+            ws.onmessage = function(event){
+                //服务端发送的消息
+                $('#text_chat_content').append(event.data+'\n');
+            }
+
+            ws.onclose = function(event){
+                 $('#text_chat_content').append('用户['+username+'] 已经离开聊天室!');
+            }
+
+        });
+
+        //客户端发送消息到服务器
+        $('#btn_send').click(function(){
+
+            var msg = $('#in_msg').val();
+
+            if(ws){
+                ws.send(msg);
+            }
+
+        });
+
+        //离开聊天室
+        $('#btn_exit').click(function(){
+
+            if(ws){
+                ws.close();
+            }
+
+        });
+
+    })
+</script>
+
+</body>
+
+</html>

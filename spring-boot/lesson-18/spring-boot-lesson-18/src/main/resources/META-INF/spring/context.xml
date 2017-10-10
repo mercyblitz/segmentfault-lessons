@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+    <bean id="person" class="com.segmentfault.springbootlesson18.domain.Person" >
+        <property name="id"  value="${person.id}" />
+        <property name="name" value="小马哥" />
+        <property name="age" value="${person.age}" />
+    </bean>
+
+</beans>

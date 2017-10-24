@@ -214,7 +214,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第二十节 自定义启动器](https://segmentfault.com/l/1500000009978904)
+### [第二十节 自定义启动器](https://segmentfault.com/l/1500000009978904) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-20)) [[问答](https://segmentfault.com/l/1500000009978904/d/1560000011202690)]
 
 * 主要内容
 
@@ -227,7 +227,7 @@ Segment Fault 在线讲堂 代码工程
 ## Java 微服务实践 - Spring Cloud 系列
 
 
-### 持续更新中，请期待
+### 10月开播，敬请期待
 
 
 

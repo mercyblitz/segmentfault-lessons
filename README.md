@@ -207,7 +207,7 @@ Segment Fault 在线讲堂 代码工程
     
 
 
-### [第十八节 配置](https://segmentfault.com/l/1500000009978661/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-18)) [[问答](https://segmentfault.com/l/1500000009978729/d/1560000011093017)]
+### [第十八节 配置](https://segmentfault.com/l/1500000009978729/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-18)) [[问答](https://segmentfault.com/l/1500000009978729/d/1560000011093017)]
 
 * 主要内容
 

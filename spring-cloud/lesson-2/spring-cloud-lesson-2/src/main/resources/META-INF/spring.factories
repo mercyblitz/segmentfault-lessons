@@ -1,0 +1,3 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration= \
+com.segmentfault.springcloudlesson2.boostrap.MyConfiguration,\
+com.segmentfault.springcloudlesson2.boostrap.MyPropertySourceLocator

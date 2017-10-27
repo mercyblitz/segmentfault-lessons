@@ -27,7 +27,7 @@ Segment Fault 在线讲堂 代码工程
 ## Java 微服务实践 - Spring Boot 系列 （[一键报名，更优惠！](https://segmentfault.com/ls/1650000011063780)） [[Github 代码工程](https://github.com/mercyblitz/segmentfault-lessons)]
 
 
-### [第一节 初体验](https://segmentfault.com/l/1500000009515571)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-1))
+### [第一节 初体验](https://segmentfault.com/l/1500000009515571/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-1))
 
 * 主要内容
 
@@ -37,7 +37,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第二节 Web篇（上）](https://segmentfault.com/l/1500000009659111) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-2))
+### [第二节 Web篇（上）](https://segmentfault.com/l/1500000009659111/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-2))
 
 * 主要内容：
 
@@ -47,7 +47,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第三节 Web篇（中）](https://segmentfault.com/l/1500000009767025)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-3))
+### [第三节 Web篇（中）](https://segmentfault.com/l/1500000009767025/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-3))
 
 * 主要内容
 
@@ -57,7 +57,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第四节 Web篇（下）](https://segmentfault.com/l/1500000009830944)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-4))
+### [第四节 Web篇（下）](https://segmentfault.com/l/1500000009830944/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-4))
 
 * 主要内容
 
@@ -67,7 +67,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第五节 嵌入式Web容器](https://segmentfault.com/l/1500000009844304)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-5))
+### [第五节 嵌入式Web容器](https://segmentfault.com/l/1500000009844304/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-5))
 
 * 主要内容
 
@@ -76,7 +76,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第六节 数据库 JDBC](https://segmentfault.com/l/1500000009904190)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-6))
+### [第六节 数据库 JDBC](https://segmentfault.com/l/1500000009904190/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-6))
 
 * 主要内容
 
@@ -87,7 +87,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-7))
+### [第七节 MyBatis](https://segmentfault.com/l/1500000009952220/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-7))
 
 * 主要内容
 
@@ -98,7 +98,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-8))
+### [第八节 Java Persistence API](https://segmentfault.com/l/1500000009952527/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-8))
 
 * 主要内容
 
@@ -108,7 +108,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第九节 NoSQL](https://segmentfault.com/l/1500000009957330)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-9)) [[问答](https://segmentfault.com/l/1500000009957330/d/1560000010384965)]
+### [第九节 NoSQL](https://segmentfault.com/l/1500000009957330/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-9)) [[问答](https://segmentfault.com/l/1500000009957330/d/1560000010384965)]
 
 * 主要内容：
 
@@ -118,7 +118,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十节 缓存](https://segmentfault.com/l/1500000009970812)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-10)) [[问答](https://segmentfault.com/l/1500000009970812/d/1560000010509920)]
+### [第十节 缓存](https://segmentfault.com/l/1500000009970812/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-10)) [[问答](https://segmentfault.com/l/1500000009970812/d/1560000010509920)]
 
 * 主要内容
 
@@ -129,7 +129,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十一节 消息](https://segmentfault.com/l/1500000009971600)([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-11)) [[问答](https://segmentfault.com/l/1500000009971600/d/1560000010580012)]
+### [第十一节 消息](https://segmentfault.com/l/1500000009971600/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-11)) [[问答](https://segmentfault.com/l/1500000009971600/d/1560000010580012)]
 
 * 主要内容
 
@@ -141,7 +141,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十二节 验证](https://segmentfault.com/l/1500000009971716) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-12)) [[问答](https://segmentfault.com/l/1500000009971716/d/1560000010630935)]
+### [第十二节 验证](https://segmentfault.com/l/1500000009971716/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-12)) [[问答](https://segmentfault.com/l/1500000009971716/d/1560000010630935)]
 
 * 主要内容
 
@@ -152,7 +152,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十三节 WebSocket](https://segmentfault.com/l/1500000009971764) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-13)) [[问答](https://segmentfault.com/l/1500000009971764/d/1560000010698298)]
+### [第十三节 WebSocket](https://segmentfault.com/l/1500000009971764/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-13)) [[问答](https://segmentfault.com/l/1500000009971764/d/1560000010698298)]
 
 * 主要内容
 
@@ -164,7 +164,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十四节 WebService](https://segmentfault.com/l/1500000009978309) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-14)) [[问答](https://segmentfault.com/l/1500000009978309/d/1560000010748545)]
+### [第十四节 WebService](https://segmentfault.com/l/1500000009978309/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-14)) [[问答](https://segmentfault.com/l/1500000009978309/d/1560000010748545)]
 
 * 主要内容
 
@@ -175,7 +175,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十五节 安全](https://segmentfault.com/l/1500000009978481) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-15)) [[问答](https://segmentfault.com/l/1500000009978481/d/1560000010817910)]
+### [第十五节 安全](https://segmentfault.com/l/1500000009978481/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-15)) [[问答](https://segmentfault.com/l/1500000009978481/d/1560000010817910)]
 
 * 主要内容
 
@@ -185,7 +185,7 @@ Segment Fault 在线讲堂 代码工程
     
     
 
-### [第十六节 日志](https://segmentfault.com/l/1500000009978585) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-16)) [[问答](https://segmentfault.com/l/1500000009978585/d/1560000010867242)]
+### [第十六节 日志](https://segmentfault.com/l/1500000009978585/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-16)) [[问答](https://segmentfault.com/l/1500000009978585/d/1560000010867242)]
 
 * 主要内容
 
@@ -196,7 +196,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十七节 监管](https://segmentfault.com/l/1500000009978661) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-17)) [[问答](https://segmentfault.com/l/1500000009978661/d/1560000010933454)]
+### [第十七节 监管](https://segmentfault.com/l/1500000009978661/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-17)) [[问答](https://segmentfault.com/l/1500000009978661/d/1560000010933454)]
 
 * 主要内容
 
@@ -207,7 +207,7 @@ Segment Fault 在线讲堂 代码工程
     
 
 
-### [第十八节 配置](https://segmentfault.com/l/1500000009978661) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-18)) [[问答](https://segmentfault.com/l/1500000009978729/d/1560000011093017)]
+### [第十八节 配置](https://segmentfault.com/l/1500000009978661/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-18)) [[问答](https://segmentfault.com/l/1500000009978729/d/1560000011093017)]
 
 * 主要内容
 
@@ -218,7 +218,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第十九节 测试](https://segmentfault.com/l/1500000009978826) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-19)) [[问答](https://segmentfault.com/l/1500000009978826/d/1560000011154349)]
+### [第十九节 测试](https://segmentfault.com/l/1500000009978826/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-19)) [[问答](https://segmentfault.com/l/1500000009978826/d/1560000011154349)]
 
 * 主要内容
 	
@@ -229,7 +229,7 @@ Segment Fault 在线讲堂 代码工程
 
 
 
-### [第二十节 自定义启动器](https://segmentfault.com/l/1500000009978904) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-20)) [[问答](https://segmentfault.com/l/1500000009978904/d/1560000011202690)]
+### [第二十节 自定义启动器](https://segmentfault.com/l/1500000009978904/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-boot/lesson-20)) [[问答](https://segmentfault.com/l/1500000009978904/d/1560000011202690)]
 
 * 主要内容
 

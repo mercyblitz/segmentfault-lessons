@@ -281,7 +281,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第三节 配置服务器（Spring Cloud Config Server）
+### 第三节 配置服务器（Spring Cloud Config Server）([[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-3)) [[问答](https://segmentfault.com/l/1500000011385904/d/1560000011846809)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

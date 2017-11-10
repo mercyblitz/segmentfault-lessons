@@ -58,7 +58,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第四节 服务发现/注册（Service Discovery/Registry）
+### [第四节 服务发现/注册（Service Discovery/Registry）] （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-4)） [[问答](https://segmentfault.com/l/1500000011386051/d/1560000011950147)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

@@ -74,7 +74,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第五节 高可用服务治理（HA Service Government）
+### [第五节 高可用服务治理（HA Service Government）](https://segmentfault.com/l/1500000011386082/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-5)） [[问答](https://segmentfault.com/l/1500000011386082/d/1560000012055816)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

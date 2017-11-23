@@ -88,7 +88,6 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 问答互动（10 分钟）
 
 
-
 ### [第六节 负载均衡（Load Balance）](https://segmentfault.com/l/1500000011386110/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-6)） [[问答](https://segmentfault.com/l/1500000011386110/d/1560000012083922)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
@@ -103,7 +102,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第七节 Netflix Ribbon 源码解读
+### [第七节 Netflix Ribbon 源码解读](https://segmentfault.com/l/1500000011386180/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-7)） [[问答](https://segmentfault.com/l/1500000011386180/d/1560000012135448)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

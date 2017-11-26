@@ -116,7 +116,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 问答互动（20分钟）
 
 
-### 第八节 [服务短路（Circuit Breakers）](https://segmentfault.com/l/1500000011386237/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-8)） [[问答](https://segmentfault.com/l/1500000011386237/d/1560000012166896)]
+### [第八节 服务短路（Circuit Breakers）](https://segmentfault.com/l/1500000011386237/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-8)） [[问答](https://segmentfault.com/l/1500000011386237/d/1560000012166896)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

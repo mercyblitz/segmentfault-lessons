@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>spring-cloud-lesson-8</artifactId>
+        <groupId>com.segumentfault</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>user-service-provider</artifactId>
+
+    <dependencies>
+
+        <!-- 依赖 用户 API -->
+        <dependency>
+            <groupId>com.segumentfault</groupId>
+            <artifactId>user-api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <!-- 依赖 Spring Cloud Netflix Hystrix -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
+        </dependency>
+
+
+    </dependencies>
+
+</project>

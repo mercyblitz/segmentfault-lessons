@@ -128,7 +128,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 
 
 
-### 第九节 Spring Cloud Hystrix 源码解读
+### [第九节 Spring Cloud Hystrix 源码解读](https://segmentfault.com/l/1500000011386273/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-9)） [[问答](https://segmentfault.com/l/1500000011386273/d/1560000012218757)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

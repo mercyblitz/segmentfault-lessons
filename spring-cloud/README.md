@@ -141,8 +141,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 问答互动（20分钟）
 
 
-
-### 第十节 服务调用（Service Call）
+### [第十节 服务调用（Service Call）](https://segmentfault.com/l/1500000011386274/play)（[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-10)） [[问答](https://segmentfault.com/l/1500000011386274/d/1560000012262189)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

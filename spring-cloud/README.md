@@ -153,7 +153,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（10分钟）
 
-### 第十一节 Spring Cloud 服务网关
+### [第十一节 Spring Cloud 服务网关](https://segmentfault.com/l/1500000011386451/play) （[课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-11)） [[问答](https://segmentfault.com/l/1500000011386451/d/1560000012313789)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

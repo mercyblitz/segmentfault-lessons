@@ -324,9 +324,9 @@ Zuul 有两种的激活模式：
 
 
 
-`ZuulServerAutoConfiguration`与 父类 `ZuulProxyMarkerConfiguration` 区别：
+`ZuulServerAutoConfiguration`与 父类 `ZuulProxyAutoConfiguration` 区别：
 
-父类`ZuulProxyMarkerConfiguration` 提供了`RibbonRoutingFilter`
+父类`ZuulProxyAutoConfiguration` 提供了`RibbonRoutingFilter`
 
 
 

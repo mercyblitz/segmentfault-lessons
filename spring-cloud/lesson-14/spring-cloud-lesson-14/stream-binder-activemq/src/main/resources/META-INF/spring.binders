@@ -1,0 +1,2 @@
+activemq :\
+com.segumentfault.spring.cloud.stream.binder.activemq.ActiveMQStreamBinderAutoConfiguration

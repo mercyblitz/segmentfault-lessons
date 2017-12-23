@@ -195,7 +195,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### [第十五节 分布式应用跟踪](https://segmentfault.com/l/1500000011386721/play) ([课件]((https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-14))) [[问答](https://segmentfault.com/l/1500000011386721/d/1560000012512486)]
+### [第十五节 分布式应用跟踪](https://segmentfault.com/l/1500000011386721/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-15)) [[问答](https://segmentfault.com/l/1500000011386721/d/1560000012512486)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 
@@ -206,7 +206,7 @@ Spring Cloud 系列课程致力于以实战的方式覆盖 Spring Cloud 的功�
 * 本章小结（10分钟）
 * 问答互动（20分钟）
 
-### 第十六节 Spring Cloud 系列回顾
+### [第十六节 Spring Cloud 系列回顾](https://segmentfault.com/l/1500000011386751/play) ([课件](https://github.com/mercyblitz/segmentfault-lessons/tree/master/spring-cloud/lesson-15)) [[问答](https://segmentfault.com/l/1500000011386751/d/1560000012555975)]
 
 * 受众群体：具备一定的`Java`服务端编程经验更佳
 

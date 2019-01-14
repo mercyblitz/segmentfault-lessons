@@ -47,11 +47,11 @@ SegmentFault 在线讲堂 代码工程
 
 ### [「一入 Java 深似海 」系列课程 - 第一期](「一入%20Java%20深似海%20」)  【[优惠报名](https://segmentfault.com/ls/1650000017791749)】
 
-### [`Spring Boot / Spring Cloud 双系列`](#)  【[优惠报名](https://segmentfault.com/ls/1650000011387052)】
+### [Spring Boot / Spring Cloud 系列](#)  【[优惠报名](https://segmentfault.com/ls/1650000011387052)】
 
-### [`Spring Cloud 系列`](spring-cloud)  【[优惠报名](https://segmentfault.com/ls/1650000011386794)】
+### [Spring Cloud 系列](spring-cloud)  【[优惠报名](https://segmentfault.com/ls/1650000011386794)】
 
-### [`Spring Boot 系列`](spring-boot)  【[优惠报名](https://segmentfault.com/ls/1650000011063780)】
+### [Spring Boot 系列](spring-boot)  【[优惠报名](https://segmentfault.com/ls/1650000011063780)】
 
 
 # 技术交流

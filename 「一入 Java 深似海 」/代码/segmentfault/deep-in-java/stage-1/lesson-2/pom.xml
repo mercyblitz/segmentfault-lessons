@@ -9,19 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <name>「一入 Java 深似海 」系列 :: 第一期 :: 第二节</name>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>8</source>
-                    <target>8</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
-
     <artifactId>stage-1-lesson-2</artifactId>
 
 

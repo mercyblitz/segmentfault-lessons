@@ -62,13 +62,13 @@
 
 ### [第一期：Java 语言基础与代码设计](https://segmentfault.com/n/1330000017785786) 
 
-- 第一节：Java 语言基础
+- [第一节：Java 语言基础](https://segmentfault.com/ls/1650000017791749/l/1500000017790143)
 
-- 第二节：Java 面向对象设计
+- [第二节：Java 面向对象设计（上）](https://segmentfault.com/ls/1650000017791749/l/1500000017790217)
 
-- 第三节：Java 函数式设计
+- [第三节：Java 面向对象设计（下）](https://segmentfault.com/ls/1650000017791749/l/1500000017790336)
 
-- 第四节：Java 模块化设计
+- [第四节：Java 函数式设计](https://segmentfault.com/ls/1650000017791749/l/1500000017790383)
 
 
 

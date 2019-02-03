@@ -11,6 +11,7 @@
     <name>「一入 Java 深似海 」系列</name>
     <modules>
         <module>stage-1</module>
+        <module>stage-2</module>
     </modules>
 
     <build>

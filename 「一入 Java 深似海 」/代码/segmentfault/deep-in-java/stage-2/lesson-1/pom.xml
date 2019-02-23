@@ -9,7 +9,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <name>「一入 Java 深似海 」系列 :: 第二期 :: 第一节</name>
     <artifactId>stage-2-lesson-1</artifactId>
 
     <dependencies>

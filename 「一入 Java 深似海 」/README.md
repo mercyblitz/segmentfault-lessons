@@ -145,7 +145,7 @@
 
   
 
-### 第三期：Java 并发基础
+### [第三期：Java 并发基础](https://segmentfault.com/ls/1650000018320970)
 
 #### [第一节：Java 线程与进程](https://segmentfault.com/l/1500000018320263)
 

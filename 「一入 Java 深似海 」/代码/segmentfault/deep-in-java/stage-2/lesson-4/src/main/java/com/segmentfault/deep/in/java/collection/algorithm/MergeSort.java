@@ -26,7 +26,7 @@ public class MergeSort<T extends Comparable<T>> implements Sort<T> {
         Comparable[] a2 = new Comparable[n2];
 
         //把 values[0...mid] 内容复制给 a1
-        System.arraycopy(values, 0, a1, 0, n1);
+        System.arraycopy(values, low, a1, 0, n1);
         //把 values[mid+1...high] 内容复制给 a2
         System.arraycopy(values, mid + 1, a2, 0, n2);
 

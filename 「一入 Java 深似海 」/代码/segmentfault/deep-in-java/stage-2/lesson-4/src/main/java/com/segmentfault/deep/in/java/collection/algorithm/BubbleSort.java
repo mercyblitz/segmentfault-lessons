@@ -39,13 +39,13 @@ public class BubbleSort<T extends Comparable<T>> implements Sort<T> {
         Integer[] values = Sort.of(3, 1, 2, 5, 4);
         Sort<Integer> sort = new BubbleSort<>(); // Java 7 Diamond 语法
         sort.sort(values);
-        System.out.printf("排序结果：%s", Arrays.toString(values));
+        System.out.printf("排序结果：%s\n", Arrays.toString(values));
 
         System.out.println("完全逆序");
         values = Sort.of(5, 4, 3, 2, 1);
         sort = new BubbleSort<>();
         sort.sort(values);
-        System.out.printf("排序结果：%s", Arrays.toString(values));
+        System.out.printf("排序结果：%s\n", Arrays.toString(values));
     }
 
 }

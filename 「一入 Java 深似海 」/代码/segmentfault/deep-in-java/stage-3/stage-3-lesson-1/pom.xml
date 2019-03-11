@@ -8,7 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <name>「一入 Java 深似海 」系列 :: 第三期 :: 第一节</name>
     <artifactId>stage-3-lesson-1</artifactId>
 
 

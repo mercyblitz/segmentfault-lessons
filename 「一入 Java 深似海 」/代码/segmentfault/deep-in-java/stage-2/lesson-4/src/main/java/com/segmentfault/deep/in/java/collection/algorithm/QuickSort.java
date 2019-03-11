@@ -63,22 +63,22 @@ public class QuickSort<T extends Comparable<T>> implements Sort<T> {
         // pIndex = 3
 
         T pivot = values[high];
-        int i = low - 1;
+        int i = low;
 
         for (int j = low; j < high; j++) {
             if (values[j].compareTo(pivot) < 1) { // <=
-                i++; // -1 -> 0
                 T temp = values[i]; // 低位数据
                 values[i] = values[j]; // 低位数据获取高位数据
                 values[j] = temp;
+                i++; // -1 -> 0
             }
         }
 
-        T temp = values[i + 1];
-        values[i + 1] = values[high];
+        T temp = values[i];
+        values[i] = values[high];
         values[high] = temp;
 
-        return i + 1; // 游标+1
+        return i;
     }
 
     public static void main(String[] args) {

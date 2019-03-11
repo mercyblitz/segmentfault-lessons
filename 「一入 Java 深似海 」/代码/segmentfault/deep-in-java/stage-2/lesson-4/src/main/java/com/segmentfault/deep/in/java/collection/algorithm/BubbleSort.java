@@ -1,6 +1,6 @@
 package com.segmentfault.deep.in.java.collection.algorithm;
 
-import java.util.stream.Stream;
+import java.util.Arrays;
 
 public class BubbleSort<T extends Comparable<T>> implements Sort<T> {
 
@@ -16,30 +16,36 @@ public class BubbleSort<T extends Comparable<T>> implements Sort<T> {
         // Given array : [3,1,2,5,4]
         // for 1          |
         // for 2            |
-        for (int i = 0; i < size; i++) {
-            // 第 i 号元素
-            T t = values[i]; // 产生临时变量
-            for (int j = i + 1; j < size; j++) {
-                // 第 i 号元素与 i + 1 对比
-                if (t.compareTo(values[j]) == 1) { // 低位 > 高位
-                    // 交换元素 [i + 1] = [i]
-                    values[i] = values[j];
-                    values[j] = t;
+        for (int i = 0; i < size - 1; i++) {
+            for (int j = 0; j < size - i - 1; j++) {
+                // 第 j 号元素与 j + 1 对比
+                if (values[j].compareTo(values[j + 1]) == 1) { // 低位 > 高位
+                    // 交换元素
+                    T t = values[j];
+                    values[j] = values[j + 1];
+                    values[j + 1] = t;
                     // [0] = 3 , [1] = 2
                     // [1] = [1](2) + [0](3) = 5
                     // [0] = [1](5) - [0](3) = 2
                     // [1] = [1](5) - [0](2) = 3
-                    break;
                 }
             }
+            System.out.printf("第%d轮：%s\n", i + 1, Arrays.toString(values));
         }
     }
 
     public static void main(String[] args) {
+        System.out.println("一般情况");
         Integer[] values = Sort.of(3, 1, 2, 5, 4);
         Sort<Integer> sort = new BubbleSort<>(); // Java 7 Diamond 语法
         sort.sort(values);
-        Stream.of(values).forEach(System.out::println);
+        System.out.printf("排序结果：%s\n", Arrays.toString(values));
+
+        System.out.println("完全逆序");
+        values = Sort.of(5, 4, 3, 2, 1);
+        sort = new BubbleSort<>();
+        sort.sort(values);
+        System.out.printf("排序结果：%s\n", Arrays.toString(values));
     }
 
 }

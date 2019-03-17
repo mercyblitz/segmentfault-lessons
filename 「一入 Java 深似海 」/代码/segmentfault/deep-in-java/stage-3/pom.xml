@@ -13,6 +13,7 @@
     <name>「一入 Java 深似海 」系列 :: 第三期</name>
     <modules>
         <module>stage-3-lesson-1</module>
+        <module>stage-3-lesson-2</module>
     </modules>
     <packaging>pom</packaging>
 

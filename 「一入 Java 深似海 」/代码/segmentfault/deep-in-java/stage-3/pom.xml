@@ -14,6 +14,7 @@
     <modules>
         <module>stage-3-lesson-1</module>
         <module>stage-3-lesson-2</module>
+        <module>stage-3-lesson-3</module>
     </modules>
     <packaging>pom</packaging>
 

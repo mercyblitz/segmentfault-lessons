@@ -25,6 +25,9 @@ public class SupplierDemo {
         return "Hello,World";
     }
 
+    private static Supplier<String> getHelloWorld2(){
+        return SupplierDemo::getHelloWorld;
+    }
     public static Supplier<Long> getLong() {
 //        return () -> {
 //            return System.currentTimeMillis();

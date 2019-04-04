@@ -13,7 +13,7 @@ public class InterfaceDemo {
     }
 
     private static void println(Serializable id) {
-
+        System.out.println(id);
     }
 
     private static void println(CharSequence cs) {

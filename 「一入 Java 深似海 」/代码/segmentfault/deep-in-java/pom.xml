@@ -27,5 +27,14 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>org.ow2.jonas.osgi</groupId>
+            <artifactId>
+                springframework
+            </artifactId>
+            <version>5.1.6</version>
+        </dependency>
+    </dependencies>
 
 </project>

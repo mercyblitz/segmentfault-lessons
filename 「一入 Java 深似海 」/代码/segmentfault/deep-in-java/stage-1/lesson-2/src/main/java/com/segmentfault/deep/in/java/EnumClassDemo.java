@@ -20,14 +20,14 @@ public class EnumClassDemo {
 //        println(CountingEnum.ONE);
 //        println(CountingEnum.FIVE);
 //
-//        printEnumMeta(CountingEnum.ONE);
+        printEnumMeta(CountingEnum.ONE);
 //        printEnumMeta(CountingEnum.FIVE);
 
         // 自定义实现 values()
         printCountingMembers();
         // Java 枚举字节码提升实现 values()
         printCountingEnumMembers();
-    }
+}
 
     // Q2: 能否输出所有的成员
     public static void println(Counting counting) {
@@ -187,7 +187,8 @@ abstract class Counting extends Data implements Cloneable {
         return "Counting : " + value;
     }
 
-    public static Counting[] values() {
+    public static Counting[]
+    values() {
         // Fields -> filter -> public static final fields -> get
         return Stream.of(Counting.class.getDeclaredFields())
                 .filter(field -> {

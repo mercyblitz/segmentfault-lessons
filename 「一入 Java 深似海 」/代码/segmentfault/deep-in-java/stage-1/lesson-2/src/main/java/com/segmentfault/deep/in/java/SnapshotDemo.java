@@ -1,7 +1,7 @@
 package com.segmentfault.deep.in.java;
 
-import java.util.ArrayList;
-import java.util.List;
+        import java.util.ArrayList;
+        import java.util.List;
 
 public class SnapshotDemo {
 
@@ -19,7 +19,7 @@ public class SnapshotDemo {
             this.value = value;
         }
     }
-
+    //读 时候快速读，写 时候慢慢写，
     private static class SnapshotData {
 
         private List<String> value;

@@ -1,6 +1,6 @@
 package com.segmentfault.deep.in.java.functional;
 
-import java.lang.annotation.*;
+        import java.lang.annotation.*;
 
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

@@ -27,6 +27,8 @@ public class StreamDemo {
     private static void parallelSort(Integer... numbers) {
         Stream.of(numbers)
                 .sorted()
+                //parllel 方法是有必要提一下，stream 作为 java8的新特性，为了充分发挥cpu的多核多线程特性，提供了
+                //并行化的能力，parallel就是并行的，是通过java 7 的Fork/Join 框架，将迭代的数据分为多段，多线程允许
                 .parallel()
                 .forEach(StreamDemo::println);
     }

@@ -54,7 +54,7 @@ public class MethodReturnTypeDemo {
 
     public static void main(String[] args) {
         List<Integer> numbers = getErrorNumbers();
-        System.out.println(numbers);
+           System.out.println(numbers);
         // 抛出 UnsupportedOperationException
         // numbers.add(6);
         // Arrays.asList 并非只读，尽管在 add 方法操作时，抛出异常

@@ -25,6 +25,7 @@ public class ClassCastDemo {
         List<String> strList3 = new ArrayList<>();
         // Java 8 var
         // var strList = new ArrayList<>();
+
     }
 
     /**

@@ -14,6 +14,13 @@ public class SupplierDesignDemo {
         });
 
         echo(SupplierDesignDemo::getMessage);
+        // java 7 之前的写法
+/*        echo(new Supplier<String>() {
+            @Override
+            public String get() {
+              return  SupplierDesignDemo.getMessage();
+            }
+        });*/
 
         getMessage(); // 及时返回数据
 

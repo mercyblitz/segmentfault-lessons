@@ -16,6 +16,7 @@ public class StreamCollectDemo {
 
         values = Stream.of(1, 2, 3, 4, 5)
                 .collect(LinkedList::new, List::add, List::addAll);
+        System.out.println(values);
 
         System.out.println(values.getClass());
     }

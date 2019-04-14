@@ -1,0 +1,14 @@
+Concurrency JSR-166 Interest Site
+http://g.oswego.edu/dl/concurrency-interest/
+
+Memory Barriers and JVM Concurrency
+https://www.infoq.com/articles/memory_barriers_jvm_concurrency
+
+JSR
+https://github.com/mercyblitz/jsr
+
+Bill Pugh
+http://www.cs.umd.edu/~pugh/
+
+Atomic Access
+https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html

@@ -29,5 +29,6 @@
     <modules>
         <module>stage-4-lesson-1</module>
         <module>stage-4-lesson-2</module>
+        <module>stage-4-lesson-3</module>
     </modules>
 </project>

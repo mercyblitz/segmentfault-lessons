@@ -29,3 +29,5 @@ target/
 .DS_Store
 Thumbs.db
 *.orig
+
+.vs

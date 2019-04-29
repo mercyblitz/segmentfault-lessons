@@ -9,12 +9,14 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <name>「一入 Java 深似海 」系列 :: 第二期</name>
     <artifactId>stage-2</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>lesson-1</module>
         <module>lesson-2</module>
+        <module>lesson-3</module>
+        <module>lesson-4</module>
     </modules>
 
     <build>

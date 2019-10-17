@@ -15,6 +15,7 @@
         <module>stage-3</module>
         <module>stage-4</module>
         <module>stage-5</module>
+        <module>stage-7</module>
     </modules>
 
     <build>

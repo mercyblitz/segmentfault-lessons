@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Vendor: SegmentFault
+Implementation-Title: SegmentFault
+Implementation-Version: 1.0.0
+Specification-Vendor: SegmentFault

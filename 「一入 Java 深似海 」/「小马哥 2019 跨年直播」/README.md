@@ -93,7 +93,7 @@
       * Redis
       * Mango
       * ElasticSearch
-    * PRC
+    * RPC
       * CXF（WebServices）
       * Spring Cloud Feign（REST）
       * Dubbo（多协议）
